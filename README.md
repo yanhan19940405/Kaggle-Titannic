@@ -4,7 +4,7 @@ Data skills repository
 ![图1 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/feature-1.png)
 ![图2 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/feature.png)
 ![图3 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/feature2.png)
-![图4 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/feature（2）.png)
+![图4 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/fenbu（2）.png)
 ![图5 特征分析](https://github.com/yanhan19940405/Kaggle-Titannic/blob/master/img/fenbu.png)
 最后模型选取的是u=0.05，c=1的高斯核函数的SVM方法
 结果如图：
